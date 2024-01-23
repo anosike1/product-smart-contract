@@ -1,4 +1,5 @@
-Product-Order-Ethereum-Smart-Contract [2024]
+**Product-Order-Ethereum-Smart-Contract [2024]**
+
 This is a simple smart contract created via solidity to manage orders on the blockchain.
 
 Every product has either of 5 statuses:
